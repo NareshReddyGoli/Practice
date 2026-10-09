@@ -1,0 +1,8 @@
+Let's learn Git practically, from zero to advanced, by creating a real project, changing files, tracking versions, creating branches, merging code, fixing mistakes, and pushing everything to GitHub.
+Since you want to understand every command deeply, we won't just memorize commands. For every command, you'll learn:
+1. What it does
+2. Why we use it
+3. What changes internally
+4. What output to expect
+5. How to verify that it worked
+We'll use a small Python project because it is easy to understand, but the Git concepts apply to Java, React, Spring Boot, and other projects too

@@ -1,0 +1,16 @@
+2. Set up Git on your computer
+Open VS Code → Terminal → New Terminal. We'll use the terminal for every practical exercise.
+Step 1: Check whether Git is installed
+Run:
+Expected output looks similar to:
+The exact version may differ.
+If Git is not installed, install it from the official website: Download Git.
+Step 2: Configure your identity
+Run these commands, replacing the example values with your own details:
+Verify the settings:
+What do these commands mean?
+- config manages Git settings.
+- --global applies the setting to your user account across your repositories.
+- user.name is the name recorded in your commits.
+- user.email is the email recorded in your commits.
+These settings identify the author of a commit. They don't log you into GitHub.
